@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+---
 In the project directory, you can run:
 
 ### `npm start`
@@ -31,5 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-## Deployed Application Link: 
-https://daisyle0203.github.io/Grocery_Bud/
+## Screenshot
+---
+![Screenshot](./assets/screenshot.png)
+
+## Deployed Application Link
+---
+[Try it here!](https://daisyle0203.github.io/Grocery_Bud/)
